@@ -1,0 +1,22 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "lab-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casio25/Web_Node.js.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "kolomiets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casio25/Web_Node.js/issues"
+  },
+  "homepage": "https://github.com/Casio25/Web_Node.js#readme"
+}
