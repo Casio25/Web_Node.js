@@ -8,6 +8,7 @@ module.exports = {
     "plugin:sonarjs/recommended",
     "plugin:prettier/recommended",
     "plugin:import/recommended",
+    "plugin:n/recommended",
   ],
   overrides: [],
   parserOptions: {
