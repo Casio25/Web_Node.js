@@ -7,12 +7,13 @@ module.exports = {
     "standard",
     "plugin:sonarjs/recommended",
     "plugin:prettier/recommended",
+    "plugin:import/recommended",
   ],
   overrides: [],
   parserOptions: {
     ecmaVersion: "latest",
     sourceType: "module",
   },
-  plugins: ["sonarjs", "prettier"],
+  plugins: ["sonarjs", "prettier", "import"],
   rules: {},
 };
