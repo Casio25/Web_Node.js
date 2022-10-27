@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/Casio25/Web_Node.js#readme",
   "devDependencies": {
+    "@taikonauten/editorconfig": "^1.0.3",
     "eslint": "^8.26.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^17.0.0",
@@ -38,7 +39,7 @@
     "prettier": "2.7.1"
   },
   "dependencies": {
-    "editorconfig": "^1.0.0",
+    "editorconfig": "^1.0.1",
     "new-line": "^1.1.1"
   }
 }
