@@ -6,16 +6,16 @@ module.exports = {
   extends: [
     "standard",
     "plugin:sonarjs/recommended",
-    "plugin:prettier/recommended",
     "plugin:import/recommended",
     "plugin:n/recommended",
+    "plugin:prettier/recommended",
   ],
   overrides: [],
   parserOptions: {
     ecmaVersion: "latest",
     sourceType: "module",
   },
-  plugins: ["sonarjs", "prettier", "import"],
+  plugins: ["sonarjs", "prettier", "import", "prettier"],
   rules: {
     "n/exports-style": ["error", "module.exports"],
     "n/file-extension-in-import": ["error", "always"],
