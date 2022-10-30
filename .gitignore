@@ -120,3 +120,4 @@ dist
 .idea
 !/.idea/workspace.xml
 **/.idea
+/.idea
